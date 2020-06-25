@@ -1,4 +1,7 @@
-$primary-color: #444;
+@import '_config';
+@import '_menu';
+
+/*$primary-color: #444;
 $secondary-color: #eece1a;
 $show-home-image: true;
 $home-image: url(../img/background.jpg);
@@ -28,7 +31,7 @@ $background-opacity: 0.9;
         }
     }
 }
-
+*/
 * {
   box-sizing: border-box;
 }
